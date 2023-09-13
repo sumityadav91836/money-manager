@@ -1,0 +1,48 @@
+.amount-container {
+  height: 120px;
+  width: 300px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 15px 25px 15px 0px;
+}
+
+.balance-background {
+  background-color: #ecfccb;
+  border: 1px solid #84cc16;
+}
+
+.income-background {
+  background-color: #cffafe;
+  border: 1px solid #06b6d4;
+}
+
+.expense-background {
+  background-color: #ede9fe;
+  border: 1px solid #7c3aed;
+}
+
+.container-image {
+  height: 80px;
+  width: 80px;
+}
+
+.text {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0px;
+}
+
+.rupees {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+.list-items {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}

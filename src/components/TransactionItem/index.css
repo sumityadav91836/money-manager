@@ -1,0 +1,35 @@
+.history-sub-containers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  height: 40px;
+  width: 100%;
+  border: 1px solid #cbd5e1;
+  align-items: center;
+  margin: 0px;
+}
+
+.history-subtext {
+  font-size: 18px;
+  padding: 0px 15px;
+}
+
+.del-btn-container {
+  height: 40px;
+  width: 40px;
+}
+
+.del-btn {
+  width: 100%;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.del-image {
+  height: 30px;
+  width: 30px;
+  margin-top: 5px;
+}
